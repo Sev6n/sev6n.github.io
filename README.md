@@ -1,2 +1,2 @@
 # People Playground Suitcase Mod Development Hub
-Beta Developer Downloads.
+Beta Downloads for the People Playground Mod
