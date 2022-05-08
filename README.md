@@ -9,4 +9,4 @@ Advertisement is used to support the developer. If you do not want to support th
 You can download it from the main page of this GitHub page.
 
 
-WARNING! Do not clik anything you see on the next page except for the "SKIP AD>>" Button at the top right corner.
+WARNING! Do not click anything you see on the next page except for the "SKIP AD>>" Button at the top right corner.
